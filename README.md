@@ -88,10 +88,10 @@ El pipeline integra un modelo predictivo basado en el algoritmo supervisado **Ra
 
 <p align="left">
 <img src="https://shields.io" alt="RStudio"/>
-<img src="https://shields.io" alt="ggplot2"/>
-<img src="https://shields.io" alt="tidyverse"/>
-<img src="https://shields.io" alt="Machine Learning"/>
+<img src="https://shields.io" alt="R"/>
+<img src="https://shields.io" alt="Markdown"/>
 </p>
+
 
 ---
 
