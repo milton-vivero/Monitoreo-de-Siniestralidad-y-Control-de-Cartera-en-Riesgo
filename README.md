@@ -86,12 +86,9 @@ El pipeline integra un modelo predictivo basado en el algoritmo supervisado **Ra
 
 ## 🛠️ Tecnologías Utilizadas
 
-<p align="left">
-<img src="https://shields.io" alt="RStudio"/>
-<img src="https://shields.io" alt="R"/>
-<img src="https://shields.io" alt="Markdown"/>
-</p>
-
+![RStudio](https://shields.io) 
+![R](https://shields.io) 
+![Markdown](https://shields.io)
 
 ---
 
