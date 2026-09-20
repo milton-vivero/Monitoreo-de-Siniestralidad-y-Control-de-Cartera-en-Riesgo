@@ -86,12 +86,13 @@ El pipeline integra un modelo predictivo basado en el algoritmo supervisado **Ra
 
 ## 🛠️ Tecnologías Utilizadas
 
-<p align="left">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="DAX"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
+## 🛠️ Tecnologías Utilizadas
 
+<p align="left">
+<img src="https://shields.io" alt="RStudio"/>
+<img src="https://shields.io" alt="R"/>
+<img src="https://shields.io" alt="Markdown"/>
+</p>
 
 ---
 
