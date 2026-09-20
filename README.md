@@ -91,6 +91,7 @@ El pipeline integra un modelo predictivo basado en el algoritmo supervisado **Ra
 <p align="left">
 <img src="https://shields.io" alt="RStudio"/>
 <img src="https://shields.io" alt="R"/>
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Rstudio"/>
 <img src="https://img.shields.io" alt="Markdown"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
